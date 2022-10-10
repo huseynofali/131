@@ -1,0 +1,10 @@
+.navbar-nav ul {
+  background-color: aliceblue !important;
+}
+
+header {
+  background-image: url("../Main-slider_pattern.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: au;
+}/*# sourceMappingURL=style.css.map */
